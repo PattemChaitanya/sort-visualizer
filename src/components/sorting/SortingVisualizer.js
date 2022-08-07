@@ -170,7 +170,7 @@ export default class SortingVisualizer extends Component {
                     }
                 </div>
                 <button type='button' data-toggle="modal" data-target="#sortingInfo" className='btn btn-light' style={{ marginTop: "40px" }} >How to use?</button>
-                <a href="https://github.com/PattemChaitanya/path-visualizer" style={{ marginTop: "40px" }} className="btn btn-light">Github Repo</a>
+                <a href="https://github.com/PattemChaitanya/sort-visualizer" style={{ marginTop: "40px" }} className="btn btn-light">Github Repo</a>
             </>
         );
     }
