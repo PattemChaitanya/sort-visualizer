@@ -1,7 +1,7 @@
 # Sorting Algorithm Visualizer
-    [Try me](https://PattemChaitanya.github.io/sort-visualizer)
+[Try me](https://PattemChaitanya.github.io/sort-visualizer)
 
-## Algorithm used
+## Algorithms used
 
 Selection Sort - It is algorithm sorts an array by repeatedly finding the minimum element (Ascending order) from unsorted part and putting at the beginning.
 
@@ -13,7 +13,8 @@ Merge Sort - This Algorithm approaches divide and conquer startegy. It divides a
 
 Quick Sort - This algorithm is also uses divide and conquer startegy. It picks an pivot element and partitions the array and then it sort the elements accordingly.
 
-### If you want to try this.
+### If you want to try this
+
 clone it from the repository.
 install the dependency
 npm start
