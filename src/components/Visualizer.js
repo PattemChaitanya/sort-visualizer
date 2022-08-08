@@ -37,17 +37,13 @@ const Visualizer = () => {
             <div className="modal fade" id="setAlgoModal" role="dialog">
                 <div className="modal-dialog">
                     <div className="modal-content">
-                        <div className="modal-header">
-                            <h5 className="modal-title">No Algorithm Selected</h5>
-                                <button type="button" className="close" data-dismiss="modal">&times;</button>
-                            </div>
-                            <div className="modal-body-alert">
-                                <p>Please select an algorithm first.</p>
-                            </div>
+                        <div className="modal-body-alert p-4">
+                            <p>No Algorithm Selected. Please select an algorithm.</p>
+                            <p>Then Press on GO button.</p>
                         </div>
                     </div>
                 </div>
-
+            </div>
         </>
     )
 }
