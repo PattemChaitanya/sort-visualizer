@@ -1,5 +1,5 @@
 # Sorting Algorithm Visualizer
-    Try me(https://PattemChaitanya.github.io/sort-visualizer)
+    [Try me](https://PattemChaitanya.github.io/sort-visualizer)
 
 ## Algorithm used
 
@@ -13,7 +13,7 @@ Merge Sort - This Algorithm approaches divide and conquer startegy. It divides a
 
 Quick Sort - This algorithm is also uses divide and conquer startegy. It picks an pivot element and partitions the array and then it sort the elements accordingly.
 
-#### If you want to try this.
+### If you want to try this.
 clone it from the repository.
 install the dependency
 npm start
