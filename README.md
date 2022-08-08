@@ -15,6 +15,6 @@ Quick Sort - This algorithm is also uses divide and conquer startegy. It picks a
 
 ### If you want to try this
 
-clone it from the repository.
-install the dependency
+clone it from the repository.<br />
+install the dependency.<br />
 npm start
