@@ -1,5 +1,5 @@
 # Sorting Algorithm Visualizer
-[Try me](https://PattemChaitanya.github.io/sort-visualizer)
+Welcome to Sorting Visualizer! I built this application because I was fascinated by sorting algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. [Try it](https://PattemChaitanya.github.io/sort-visualizer)
 
 ## Algorithms used
 
